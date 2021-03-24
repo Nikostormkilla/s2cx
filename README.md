@@ -1,2 +1,2 @@
 # s2cx
-Sonic 2 Community's Cut (meta repository)
+I basically just made this fork so I can edit this later.
